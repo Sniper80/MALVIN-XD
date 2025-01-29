@@ -45,7 +45,7 @@ async (conn, mek, m, { from }) => {
 ┊• *Here are the owner details*
 ┊• *𝑁𝑎𝑚𝑒* : ${ownerName}
 ┊• *𝑁𝑢𝑚𝑏𝑒𝑟*: ${ownerNumber}
-┆• *𝑉𝑒𝑟𝑠𝑖𝑜𝑛*: _2.0.4_
+┆• *𝑉𝑒𝑟𝑠𝑖𝑜𝑛*: _1.0.0_
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 > © sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀ ғᴀɴᴛᴀsᴛɪᴄ ᴜᴘᴅᴀᴛᴇs!`, // Display the owner's details
             contextInfo: {
@@ -53,8 +53,8 @@ async (conn, mek, m, { from }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363306168354073@newsletter',
-                    newsletterName: '𝑀𝑎𝑙𝑣𝑖𝑛 𝐾𝑖𝑛𝑔',
+                    newsletterJid: '',
+                    newsletterName: '𝚂𝙽𝙸𝙿𝙴𝚁',
                     serverMessageId: 143
                 }            
             }
@@ -62,7 +62,7 @@ async (conn, mek, m, { from }) => {
 
         // Send audio as per your request
         await conn.sendMessage(from, {
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' }, // Audio URL
+            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/headus/main/Media/menuu.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
