@@ -14,7 +14,7 @@ async (conn, mek, m, { from, isOwner, quoted, reply }) => {
     const user = quoted.sender;
     try {
         await conn.updateBlockStatus(user, 'block');
-        reply('🚫✦MALVIN MD✦ User ' + user + ' blocked successfully.');
+        reply('🚫✦𝚂𝙽𝙸𝙿𝙴𝚁 𝔖✦ User ' + user + ' blocked successfully.');
     } catch (error) {
         reply('❌ Error blocking user: ' + error.message);
     }
