@@ -22,29 +22,25 @@ async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender
 try{
 let madeMenu = `╭┄┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
 
-*👋 ʜᴇʟʟᴏ ᴜsᴇʀ ${pushname}*\n\n *ɪ ᴀᴍ ᴍᴀʟᴠɪɴ xᴍᴅ*\n\n
-  ɪ ᴀᴍ  ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ ғʀᴏᴍ ᴢɪᴍʙᴀʙᴡᴇ.\nᴍʏ sᴏʟᴇ ᴘᴜʀᴘᴏsᴇ ɪs ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜᴇ ʙᴜʀᴅᴇɴ ᴏʀ ᴄᴏsᴛ ᴏғ ᴘᴜʀᴄʜᴜsɪɴɢ ᴅᴀᴛᴀ ʙᴜɴᴅʟᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴀᴘᴘs, ᴠɪᴅᴇᴏs & ᴍᴏᴠɪᴇs ʙʏ  ᴜsɪɴɢ ᴡʜᴀᴛsᴀᴘᴘ  ʙᴜɴᴅʟᴇs.
+*👋 ʜᴇʟʟᴏ ᴜsᴇʀ ${pushname}*\n\n *ɪ ᴀᴍ 𝚂𝙽𝙸𝙿𝙴𝚁*\n\n
+  ɪ ᴀᴍ  ᴡʜᴀᴛsᴀᴘᴘ ʙᴀsᴇᴅ ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ 𓏺𝙰𝙷𝙼𝙴𝙳 𝙰𝙱𝙳𝙴𝙻𝙵𝙰𝚃𝚃𝙰𝙷 ғʀᴏᴍ *Egypt*.\nᴍʏ sᴏʟᴇ ᴘᴜʀᴘᴏsᴇ ɪs ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜᴇ ʙᴜʀᴅᴇɴ ᴏʀ ᴄᴏsᴛ ᴏғ ᴘᴜʀᴄʜᴜsɪɴɢ ᴅᴀᴛᴀ ʙᴜɴᴅʟᴇ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴀᴘᴘs, ᴠɪᴅᴇᴏs & ᴍᴏᴠɪᴇs ʙʏ  ᴜsɪɴɢ ᴡʜᴀᴛsᴀᴘᴘ  ʙᴜɴᴅʟᴇs.
 \n\n *ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀ ᴠɪsɪᴛ.....
      ─┄┄┄┅┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┄┄─
 
-> *SOURCE CODE* : https://github.com/kingmalvn/MALVIN-XMD
-
-> *FOLLOW OWNER* :https://github.com/kingmalvin/
-
-> *OWNER'S WHATSAPP* : https://wa.me/263714757857/?text=ᴍᴀʟᴠɪɴ-xᴍᴅ+Fan+Here
+> *OWNER'S WHATSAPP* : https://wa.me/201020182886/?text=𝚂𝙽𝙸𝙿𝙴𝚁-xᴍᴅ+Fan+Here
 
 > *maintained by* :
-https://wa.me/263780166288/?text=ᴍᴀʟᴠɪɴ-xᴍᴅ+Fan+Here
+https://wa.me/201020182886/?text=𝚂𝙽𝙸𝙿𝙴𝚁+Fan+Here
 
 > *SUPPORT CHANNEL* : https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
 
-> *FOLLOW INSTAGRAM* :https://instagram.com/malvinking20/
+> *FOLLOW INSTAGRAM* :https://instagram.com/_bcqf/
 
-> *FOLLOW OWNER* :https://youtube.com/@malvintech2/
+> *FOLLOW OWNER* :https://youtube.com/@EG-SNIPER/
 
- *RELEASE DATE* - *27 ᴊᴀɴᴜᴀʀʏ 2025*
+ *RELEASE DATE* - *30 ᴊᴀɴᴜᴀʀʏ 2025*
  
-> *ʟᴏʀᴅ ᴍᴀʟᴠɪɴ*
+> *ʟᴏʀᴅ 𝚂𝙽𝙸𝙿𝙴𝚁*
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 `
@@ -52,15 +48,15 @@ https://wa.me/263780166288/?text=ᴍᴀʟᴠɪɴ-xᴍᴅ+Fan+Here
 await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/7pg2gp.jpg` },
+                image: { url: `https://www2.0zz0.com/2025/01/29/22/218411100.png` },
                 caption: madeMenu,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: '🪀『 𝙼𝙰𝙻𝚅𝙸𝙽-𝚇𝙼𝙳 』🪀 ',
+                        newsletterJid: '',
+                        newsletterName: '🪀『 𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 』🪀 ',
                         serverMessageId: 143
                     }
                 }
@@ -68,9 +64,9 @@ await conn.sendMessage(
             { quoted: mek }
         );
 
-        // Send audio //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-        await conn.sendMessage(from, { //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3
-            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/menu.mp3' },
+        // Send audio //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Media/mgenu.mp3
+        await conn.sendMessage(from, { //https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Mehdia/menu.mpu3
+            audio: { url: 'https://github.com/kingmalvn/malvin-database/raw/refs/heads/main/Mediia/menu.mip3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
