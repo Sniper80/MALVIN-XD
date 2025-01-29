@@ -23,6 +23,6 @@ const key = {
         await conn.sendMessage(m.chat, { delete: key })
 } catch(e) {
 console.log(e);
-reply('✦ᴍᴀʟᴠɪɴ xᴅ✦ successful..👨‍💻✅')
+reply('✦𝚂𝙽𝙸𝙿𝙴𝚁✦ successful..👨‍💻✅')
 } 
 })
