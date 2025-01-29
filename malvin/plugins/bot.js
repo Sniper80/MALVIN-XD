@@ -67,7 +67,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/kingmalvn/MALVIN-XD';
+    const githubRepoURL = 'https://github.com/Sniper80/MALVIN-XD';
 
     try {
         // Extract username and repo name from the URL
@@ -83,39 +83,39 @@ async (conn, mek, m, { from, reply }) => {
         const repoData = await response.json();
 
         // Format the repository information
-        const formattedInfo = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
+        const formattedInfo = `*𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 𝐖.𝐀 𝐁𝐨𝐭 𝐔𝐬𝐞𝐫! 👋* 
 
 
-*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 𝑴𝑨𝑳𝑽𝑰𝑵 𝑿𝑫🌹🫶* 
+*𝑇𝒉𝑎𝑛𝑘𝑠 𝑓𝑜𝑟 𝑢𝑠𝑖𝑛𝑔 𝚂𝙽𝙸𝙿𝙴𝚁🌹🫶* 
 
 ╭───────────────━⊷
-║ 🚀 𝐌𝐀𝐋𝐕𝐈𝐍 𝐗𝐃 𝐈𝐍𝐅𝐎 🚀
+║ 🚀 𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 𝐈𝐍𝐅𝐎 🚀
 ╰───────────────━⊷
 ╭───────────────━⊷
-┊💡 *ɴᴀᴍᴇ:* *ᴍᴀʟᴠɪɴ xᴅ*
+┊💡 *ɴᴀᴍᴇ:* *𝚂𝙽𝙸𝙿𝙴𝚁*
 ┊🍴 *ᴅᴀɪʟʏ ᴜsᴇʀs:* ${repoData.forks_count}
 ┊👤 *ᴏᴡɴᴇʀ:* sɪʀ ${repoData.owner.login}
 ┊❗ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ:* ${repoData.description || 'No description'}
 ╰───────────────━⊷
 
-> ᴅᴏɴ'ᴛ ғᴏʀɢᴇᴛ ᴛᴏ sᴛᴀʀ & ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ🌟🍴
+> Ꭵƒ y᥆ᥙ g᥆ƚ ᥲꪀy ρᖇ᥆ხᥣᥱꪔ ᧒ᥙ᥉ƚ ᥴᥲᥣᥣ ꪔᥱ🌟🍴
 
-║ ʀᴇᴘᴏ ʟɪɴᴋ: https://github.com/kingmalvn/MALVIN-XD 
+║ ˛ َِWَِ𝗁َِ𝖺َِ𝗍َِ𝗌َِ𝖺َِpَِp: https://wa.me/201020182886 
 ╰───────────────━⊷
 
 > sᴛᴀʏ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀ ғᴀɴᴛᴀsᴛɪᴄ ᴜᴘᴅᴀᴛᴇs!`;
 
         // Send an image with the formatted info as a caption and context info
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/bddvfr.jpg` },
+            image: { url: `https://www2.0zz0.com/2025/01/29/22/218411100.png` },
             caption: formattedInfo,
             contextInfo: { 
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363306168354073@newsletter',
-                        newsletterName: 'ᴍᴀʟᴠɪɴ xᴅ ᴡᴀ ᴄʜᴀɴɴᴇʟ',
+                        newsletterJid: '',
+                        newsletterName: '𝚂𝙽𝙸𝙿𝙴𝚁 𝔖',
                         serverMessageId: 143
                 }
             }
