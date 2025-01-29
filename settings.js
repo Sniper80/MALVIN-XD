@@ -32,14 +32,14 @@ OWNER_NAME: process.env.OWNER_NAME || "*Ahmed Abdelfattah*",
 DESCRIPTION: process.env.DESCRIPTION || "> *© Ahmed Abdelfattah*",
 // add bot owner name    
 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://www2.0zz0.com/2025/01/29/22/218411100.png",
 // add img for alive msg
 
-MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/bddvfr.jpg",
+MENU_IMG: process.env.MENU_IMG || "https://www2.0zz0.com/2025/01/29/22/218411100.png",
 // dont change menu image
 
-LIVE_MSG: process.env.LIVE_MSG || "> ✦ᴍᴀʟᴠɪɴ xᴅ✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/kingmalvn/MALVIN-XD",
-// add alive msg here 
+LIVE_MSG: process.env.LIVE_MSG || "> ✦𝚂𝙽𝙸𝙿𝙴𝚁 𝔖✦ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\n*Bot By*⚡\n\n\n*© 𓏺𝙰𝙷𝙼𝙴𝙳 𝙰𝙱𝙳𝙴𝙻𝙵𝙰𝚃𝚃𝙰𝙷\n\n> ʷʰᵃᵗˢᵃᵖᵖ :* https://wa.me/201020182886",
+// add alive msg here
 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
@@ -56,7 +56,7 @@ AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ᴍᴀʟᴠɪɴ xᴅ 🚀🔥*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by 𝚂𝙽𝙸𝙿𝙴𝚁 𝔖 🚀🔥*",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "public",
