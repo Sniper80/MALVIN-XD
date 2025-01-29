@@ -38,7 +38,7 @@ cmd({
 }) => {
   try {
     if (!_0xdc7637) {
-      return _0x2a2a5e("Please ask Malvin a question or provide input for the AI.");
+      return _0x2a2a5e("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0xc308df = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0xdc7637);
     console.log(_0xc308df);
@@ -84,14 +84,14 @@ cmd({
 }) => {
   try {
     if (!_0x12c0d9) {
-      return _0x36d409("Please ask Malvin a question or provide input for the AI.");
+      return _0x36d409("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x367956 = await fetchJson("https://pikabotzapi.vercel.app/ai/mistral/?apikey=anya-md&message=" + _0x12c0d9);
     console.log(_0x367956);
     if (!_0x367956.message) {
       return _0x36d409("No response from the AI.");
     }
-    return _0x36d409("🤖 *MALVIN MISTRA AI:*\n\n" + _0x367956.message);
+    return _0x36d409("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 AI:*\n\n" + _0x367956.message);
   } catch (_0x10e5e0) {
     console.error(_0x10e5e0);
     _0x36d409("An error occurred: " + _0x10e5e0.message);
@@ -130,14 +130,14 @@ cmd({
 }) => {
   try {
     if (!_0x577d9a) {
-      return _0x30e11f("Please ask Malvin a question or provide input for the AI.");
+      return _0x30e11f("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x2d5c9f = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt3?text=" + _0x577d9a);
     console.log(_0x2d5c9f);
     if (!_0x2d5c9f.message) {
       return _0x30e11f("No response from the AI.");
     }
-    return _0x30e11f("🤖 *MALVIN CHATGPT 3:*\n\n" + _0x2d5c9f.message);
+    return _0x30e11f("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 CHATGPT 3:*\n\n" + _0x2d5c9f.message);
   } catch (_0x10fce7) {
     console.error(_0x10fce7);
     _0x30e11f("An error occurred: " + _0x10fce7.message);
@@ -176,14 +176,14 @@ cmd({
 }) => {
   try {
     if (!_0x45a1c2) {
-      return _0x3a5766("Please ask Malvin a question or provide input for the AI.");
+      return _0x3a5766("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x4e7058 = await fetchJson('https://api.davidcyriltech.my.id/ai/gpt4omini?text=' + _0x45a1c2);
     console.log(_0x4e7058);
     if (!_0x4e7058.message) {
       return _0x3a5766("No response from the AI.");
     }
-    return _0x3a5766("🤖 *Malvin CHATGPT 4:*\n\n" + _0x4e7058.message);
+    return _0x3a5766("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 CHATGPT 4:*\n\n" + _0x4e7058.message);
   } catch (_0x5b4b01) {
     console.error(_0x5b4b01);
     _0x3a5766("An error occurred: " + _0x5b4b01.message);
@@ -222,14 +222,14 @@ cmd({
 }) => {
   try {
     if (!_0x38e6c7) {
-      return _0x57b9cd("Please ask Malvin a question or provide input for the AI.");
+      return _0x57b9cd("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x29a2d3 = await fetchJson("https://api.davidcyriltech.my.id/ai/llama3?text=" + _0x38e6c7);
     console.log(_0x29a2d3);
     if (!_0x29a2d3.message) {
       return _0x57b9cd("No response from the AI.");
     }
-    return _0x57b9cd("🤖 *NEXUS LLAM AI:*\n\n" + _0x29a2d3.message);
+    return _0x57b9cd("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 AI:*\n\n" + _0x29a2d3.message);
   } catch (_0x17e04d) {
     console.error(_0x17e04d);
     _0x57b9cd("An error occurred: " + _0x17e04d.message);
@@ -268,14 +268,14 @@ cmd({
 }) => {
   try {
     if (!_0x1f9184) {
-      return _0x4ee22a("Please ask Malvin a question or provide input for the AI.");
+      return _0x4ee22a("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0xd0e8ec = await fetchJson("https://api.davidcyriltech.my.id/ai/metaai?text=" + _0x1f9184);
     console.log(_0xd0e8ec);
     if (!_0xd0e8ec.message) {
       return _0x4ee22a("No response from the AI.");
     }
-    return _0x4ee22a("🤖 * NEXUS META AI:*\n\n" + _0xd0e8ec.message);
+    return _0x4ee22a("🤖 * 𝚂𝙽𝙸𝙿𝙴𝚁 META AI:*\n\n" + _0xd0e8ec.message);
   } catch (_0x5d8d3a) {
     console.error(_0x5d8d3a);
     _0x4ee22a("An error occurred: " + _0x5d8d3a.message);
@@ -314,14 +314,14 @@ cmd({
 }) => {
   try {
     if (!_0x33edcf) {
-      return _0x25d133("Please ask Malvin a question or provide input for the AI.");
+      return _0x25d133("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x304125 = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0x33edcf);
     console.log(_0x304125);
     if (!_0x304125.message) {
       return _0x25d133("No response from the AI.");
     }
-    return _0x25d133("🤖 *NEXUS CHATGPT 4o:*\n\n" + _0x304125.message);
+    return _0x25d133("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 CHATGPT 4o:*\n\n" + _0x304125.message);
   } catch (_0x16b063) {
     console.error(_0x16b063);
     _0x25d133("An error occurred: " + _0x16b063.message);
@@ -360,14 +360,14 @@ cmd({
 }) => {
   try {
     if (!_0x2422d7) {
-      return _0x561708("Please ask Malvin a question or provide input for the AI.");
+      return _0x561708("Please ask 𝚂𝙽𝙸𝙿𝙴𝚁 a question or provide input for the AI.");
     }
     const _0x54eb09 = await fetchJson("https://api.davidcyriltech.my.id/ai/gpt4omini?text=" + _0x2422d7);
     console.log(_0x54eb09);
     if (!_0x54eb09.message) {
       return _0x561708("No response from the AI.");
     }
-    return _0x561708("🤖 *NEXUS GOOGLE AI:*\n\n" + _0x54eb09.message);
+    return _0x561708("🤖 *𝚂𝙽𝙸𝙿𝙴𝚁 GOOGLE AI:*\n\n" + _0x54eb09.message);
   } catch (_0x5a0201) {
     console.error(_0x5a0201);
     _0x561708("An error occurred: " + _0x5a0201.message);
