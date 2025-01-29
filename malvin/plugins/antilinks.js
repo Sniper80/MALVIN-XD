@@ -27,7 +27,7 @@ cmd({
         'quoted': _0x24465d
       });
       await _0x970702.sendMessage(_0x9c89df, {
-        'text': "🚫 ⚠️✦ᴍᴀʟᴠɪɴ xᴅ✦ BAD WORDS NOT ALLOWED⚠️ 🚫"
+        'text': "🚫 ⚠️✦𝚂𝙽𝙸𝙿𝙴𝚁✦ BAD WORDS NOT ALLOWED⚠️ 🚫"
       }, {
         'quoted': _0x24465d
       });
@@ -61,7 +61,7 @@ cmd({
         'quoted': _0x19a450
       });
       await _0x1b2472.sendMessage(_0x150463, {
-        'text': "Links are not allowed in this group by Malvin Tech.\n@" + _0x25352b.split('@')[0x0] + " has been removed. 🚫",
+        'text': "Links are not allowed in this group by 𝚂𝙽𝙸𝙿𝙴𝚁.\n@" + _0x25352b.split('@')[0x0] + " has been removed. 🚫",
         'mentions': [_0x25352b]
       }, {
         'quoted': _0x19a450
