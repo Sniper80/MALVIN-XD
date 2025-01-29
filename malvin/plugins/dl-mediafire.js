@@ -45,9 +45,9 @@ cmd({
 }) => {
   try {
     const text = body.trim().replace(command, '').trim();
-    if (!text) return reply(`*Example*: ${command} https://www.mediafire.com/file/n6tgcrktbnov1oy/Queen_Anita-V4.zip/file`);
+    if (!text) return reply(`*Example*: ${command} https://www.mediafire.com/file/n6tgcrktbnov1oy/file`);
 
-    await reply('> *_Mᴀʟᴠɪɴ Xᴅ Processing..._*');
+    await reply('> *_𝚂𝙽𝙸𝙿𝙴𝚁 Xᴅ Processing..._*');
 
     const apiUrl = `https://api.davidcyriltech.my.id/mediafire?url=${encodeURIComponent(text)}`;
 
@@ -67,7 +67,7 @@ cmd({
             document: { url: downloadLink },
             mimetype: mimeType,
             fileName: fileName,
-            caption: `📦 *File Name:* ${fileName}\n\n> 🚀ᴊᴏɪɴ ᴍᴀʟᴠɪɴ xᴍᴅ ɴᴇxᴜs ᴄʜᴀɴɴᴇʟ 🚀`
+            caption: `📦 *File Name:* ${fileName}\n\n> 🚀 𝘵𝘩𝘢𝘯𝘬𝘴 𝘧𝘰𝘳 𝘶𝘴𝘪𝘯𝘨 𝚂𝙽𝙸𝙿𝙴𝚁 🚀`
           }, { quoted: m });
           return;
         } else {
@@ -125,7 +125,7 @@ cmd({
 }) => {
   try {
     const text = body.trim().replace(command, '').trim();
-    if (!text) return reply(`*Example*: ${command} https://www.mediafire.com/file/n6tgcrktbnov1oy/Queen_Anita-V4.zip/file`);
+    if (!text) return reply(`*Example*: ${command} https://www.mediafire.com/file/n6tgcrktbnov1oy/file`);
 
     await reply('> *Processing...*');
 
@@ -142,7 +142,7 @@ cmd({
           document: { url: downloadLink },
           mimetype: mimeType,
           fileName: fileName,
-          caption: `📦 *File Name:* ${fileName}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴅᴀᴠɪᴅ ᴄʏʀɪʟ ᴛᴇᴄʜ`
+          caption: `📦 *File Name:* ${fileName}\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𓏺𝙰𝙷𝙼𝙴𝙳 𝙰𝙱𝙳𝙴𝙻𝙵𝙰𝚃𝚃𝙰𝙷`
         }, { quoted: m });
       } else {
         reply(`*Failed to fetch file details! Please check the MediaFire URL and try again.*`);
