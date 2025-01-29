@@ -28,13 +28,13 @@ const wordInfo = `
 📝 *Example*: ${example}
 🔗 *Synonyms*: ${synonyms}
 
-> *@ ✦ɴᴇxᴜs ᴍᴅ✦*`;
+> *@ ✦𝚂𝙽𝙸𝙿𝙴𝚁✦*`;
 
                                  return reply(wordInfo);
                              } catch (e) {
                                  console.log(e);
                                  if (e.response && e.response.status === 404) {
-                                     return reply("🚫✦ɴᴇxᴜs ᴍᴅ✦ Word not found. Please check the spelling and try again.");
+                                     return reply("🚫✦𝚂𝙽𝙸𝙿𝙴𝚁✦ Word not found. Please check the spelling and try again.");
                                  }
                                  return reply("⚠️ An error occurred while fetching the definition. Please try again later.");
                              }
